@@ -22,7 +22,7 @@ There are a broad range of information available online that I recommend to lear
 
 ## Tasks
 
-### Taske 1: Simple Commit to the repository
+### Task 1: Simple Commit to the repository
 You will be working on *File 1.txt* in this exercise.
 
 - Check out the *master* branch
@@ -34,7 +34,7 @@ You will be working on *File 1.txt* in this exercise.
 - Create a Pull-Request (PR) to the main repository
 - Follow up on any further instruction
 
-### Contribute to a Pull Request
+### Task 2: Contribute to a Pull Request
 You will be working on *File 2.txt* in this exercise.
 
 - Check the existing PR https://github.com/MaximeBaudette/git-tutorial/pull/1
@@ -45,7 +45,7 @@ You will be working on *File 2.txt* in this exercise.
 - Write a new equation with a wrong answer
 - Create a PR to the main repository (to the *example* branch)
 
-### Merge Conflicts
+### Task 3: Merge Conflicts
 You will be working on *File 3.txt* in this exercise.
 
 - Check out the *tutorial* branch
